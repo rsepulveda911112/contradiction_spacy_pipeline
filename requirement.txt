@@ -1,0 +1,7 @@
+spacy
+textacy
+pandas
+spacy_wordnet
+beautifulsoup4
+requests
+nltk
